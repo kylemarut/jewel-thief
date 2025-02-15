@@ -8,6 +8,7 @@ using namespace std;
 #include <iostream>
 #include <fstream>
 #include <cstdlib>
+#include <ctime>
 #include "City.hpp"
 #include "Jewel.hpp"
 #include "Robber.hpp"
@@ -21,7 +22,7 @@ int main()
 {
   //ofstream fout("simulation_with_drones.txt");
   ofstream fout("simulation_without_drones.txt");
-  srand(210);
+  srand(time(0));
   
   //City c1(true);
   City c1(false);
