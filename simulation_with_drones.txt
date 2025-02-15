@@ -1,0 +1,1268 @@
+r   j j     jj jj
+  jj  j jj jj   r
+ j rjjj pj  j   j
+     r   j       
+ jjdj  j j   jj j
+j jjd  j  d p  jj
+ p  jj j   jjjj j
+ j jj jj jjjj jjj
+  j j  jj       j
+jjj jjj j     jjj
+----------------------
+
+    j j     jj jj
+r jj  j jj jj  r 
+ jr jjj  j  j   j
+    d rp j       
+ jj j  j j d jj j
+j pj   j       jj
+   djj j   pjjj j
+ j jj jj jjjj jjj
+  j j  jj       j
+jjj jjj j     jjj
+----------------------
+
+    j j     jj  j
+ rjj  j jj jj   r
+   djjjr j  j  jj
+r       pj       
+ jj j  j jd  jj j
+j  j   j       jj
+  p jj j  p jjj j
+ jdjj jj jjjj jjj
+  j j  jj       j
+jjj jjj j     jjj
+----------------------
+
+  r j j     jj   
+j jj  j jj jj  r 
+r   djj rj  j  jj
+       p j       
+ jj j  j j   jj j
+jp j   j  d    jj
+    jj j    jjj j
+ j jj jj pjjj jjj
+  d j  jj       j
+jjj jjj j     jjj
+----------------------
+
+ r  j j   r jj j 
+jrjj  j j  jj   r
+   djjp  j  j  jj
+         j       
+pjj j  j j   jj j
+j  j   j       jj
+    jj jpd  jjj j
+ j dj jj  jjj jjj
+  j j  jj       j
+jjj jjj j     jjj
+----------------------
+
+r   j j    rjj j 
+jrjj pj j  jj  r 
+    dj   j  j  jj
+ p       j       
+ jj j  j j   jj j
+j  j   jd      jj
+    jj p    jjj j
+ j jj jj  jjj jjj
+  jdj  jj       j
+jjj jjj j     jjj
+----------------------
+
+r   j p    rjj j 
+jrjj  j j  jj  r 
+  pdjj   j  j  jj
+         j       
+ jj j  jdj   jj j
+j  j   j       jj
+    jjp     jjj j
+ j jj jj  jjj jjj
+  j d  jj       j
+jjj jjj j     jjj
+----------------------
+
+    j     j  j j 
+jrjpd p j  r  j r
+r   jj   j jj    
+        dj       
+ jj j  j j   jj j
+j  j   j       jj
+    jj      jjj j
+ j jjdjj  jjj jjj
+  j j  jj       j
+jjj jjj j     jjj
+----------------------
+
+r   j  p  j  j j 
+j j     j   r jr 
+   pdj   d jj    
+r        j       
+ jj j  j j   jj j
+j  j   j       jj
+    jp      jjj j
+ j jj jj  jjj jjj
+  j jd jj       j
+jjj jjj j     jjj
+----------------------
+
+ r  j     j rj j 
+j j    pj     j  
+  p jj   j jj jr 
+   d    dj       
+rjj j  j j   jj j
+j  jp  j       jj
+    j       jjj j
+ j jj jj  jjj jjj
+  j j  jj       j
+jjj jjd j     jjj
+----------------------
+
+    j   p j  j j 
+jrj     j   jrj  
+   pjj   j jj j  
+  d      d      r
+ jj j  j j   jj j
+jr p   j       jj
+    j       jjj j
+ j jj jj  jjj jjj
+  j j  jj       j
+jjj jjjdj     jjj
+----------------------
+
+ r  j     j j  j 
+j j     p   jrj  
+ j  jj   j jj j  
+  r p    j       
+ dj j  jdj   jjrj
+j      j       jj
+  p j       jjj j
+ j jj jj  jjj jjj
+  j j djj       j
+jjj jjj j     jjj
+----------------------
+
+ r  j  p  j j  j 
+j j       jr  j  
+ j  jj   j j  j  
+ dr    d j       
+  j jp j j   jjrj
+j      j       jj
+    j       jjj j
+ p jj jj  jjj jjj
+  j j  dj       j
+jjj jjj j     jjj
+----------------------
+
+  r j     j j  j 
+j       p j   j  
+ jd jj  djrj  j  
+      p  j       
+ rj j  j j   jj j
+j      j      rjj
+    j       jjj j
+   jj jj  jjj jjj
+p j j djj       j
+jjj jjj j     jjj
+----------------------
+
+   rj  p  j j  j 
+j         j   j  
+jj djj   jrj  j  
+r    p   d       
+  j j  j j   jj j
+j r    j       jj
+    j       jjr j
+ prjj jj  jjj jjj
+  j j  jj       j
+jjj jdj j     jjj
+----------------------
+
+    j     j j  j 
+j djr  p  j   j  
+jj  jj   j    j  
+ r    p  jjr     
+  j j  j d   jj j
+j  r   j       jj
+    j       jj  j
+   jj jj  jjj   j
+prj jd jj      rj
+jjj jjj j     jjj
+----------------------
+
+    j     j j  j 
+j  j    pjj   j  
+jj rjj p jr   j  
+  r j    jj      
+  j  r j j   jj j
+j      j  d    jj
+    j       jjj j
+  rjj jj  jjj  rj
+ pj j  jj     j  
+jjj jjd j     j j
+----------------------
+
+    j     j j  j 
+j jj   p jj   jj 
+jj r j  rp    j r
+  d j            
+   r   j j   jj j
+j    r j      jjj
+    j     d jjj j
+   jj jj  jjj  r 
+  pjj  jj     j  
+j r jjjdj     j j
+----------------------
+
+    j     j j  j 
+j jj    pjj   jj 
+jj drjp       jj 
+  r j  r        r
+       j j   jj j
+j     rj      jjj
+    j       jjj j
+   jj jj djjj    
+   jj  jj     j r
+jr pjjd j     j j
+----------------------
+
+    jj  p j j  j 
+j dj  rp jj   jj 
+jj            jj 
+  r j   j      r 
+        rj   jj j
+j      j      jjj
+    j  rd   jjj j
+j  jj jj  jjjj   
+r  jj djj     r  
+j   pjj j     j  
+----------------------
+
+    jj    j j  j 
+jdjj  r pjj   jj 
+jjj     p     jj 
+   rj   j      r 
+         j   j  j
+j      jjr    jjj
+    j  r d  jjj j
+j  jj jj  jjjjr  
+r  pj  jj    j   
+j    jjdj     j  
+----------------------
+
+  d jjr r j j  j 
+j jj   p  j   jj 
+jjj r    p    jj 
+    j   j        
+         j   j   
+j      jjr    jjr
+    j   r d jjj j
+j  jj jj  jjjjr  
+    j djj    j   
+jr p jj j     j  
+----------------------
+
+    jj    j j  j 
+j djr Qr  j   jj 
+jjj           jj 
+    j   j p      
+         j   j   
+j      jj     jjr
+    j   r   jjj j
+j  jj j   djjj r 
+jrp jd j j   j   
+j    jjjjr    j  
+----------------------
+
+  d jjp   j j  j 
+j jj  A r j   jj 
+jjj  r    p   jj 
+    j   j        
+         j   j   
+j      jj     jjr
+    j  r r  jjj j
+j  jjdj j  jjjjj 
+j   j  j  d  j r 
+ rp  jjjj     j  
+----------------------
+
+   djj  r j j  j 
+j jj QA  pj   jj 
+jjj           jj 
+    j   j        
+         j   j r 
+j      jjjr   jj 
+    jd  r   jjj j
+j  jj j j  jjj   
+j   j  j     jjr 
+  rp jjjj d   j  
+----------------------
+
+  d ppj  pj j  j 
+j jj AAr  j   jj 
+jjj      j    jj 
+    j   j r    j 
+           r j  r
+j     djj     jj 
+    j       jjj j
+j  jj j j  jjr   
+j r j  j   dj j  
+     jjjj    j   
+----------------------
+
+    j j   j j  j 
+jdjj AQr  p   jjj
+jjj      j    jjr
+    j   j        
+          r  j   
+j    d jj r   jj 
+    j       rjj j
+j  jj j j d      
+j r j  j    j j  
+    pjjjj    j   
+----------------------
+
+  d j jp  j j jj 
+j jj AA r     jr 
+jjj      jp   jj 
+    j   j        
+          r  j   
+j      jj r   jj 
+    jd    j  jj j
+j  jj j j  r     
+j   j  j    j j  
+jr p jjjj    j   
+----------------------
+
+ d  j p   j j jj 
+j jj AA  p    jr 
+jjj     r     j  
+    j   j  r  j  
+         r   j   
+j      jj  j  jj 
+    j     j rjj j
+j  jd j j        
+j r j  j   dj j  
+j   pjjjj    j   
+----------------------
+
+    p  pj j jj  j
+j dj AA pr    r  
+jjj        j  j  
+    j   j   r j  
+             j   
+j      jj rj  jj 
+    j     j rjj j
+j  jj j j  d     
+j  dj  j    j j  
+j r  jjjj    j   
+----------------------
+
+    j   p j jj rj
+j jj AA p        
+jjjd    r  j  j  
+    j   j    rj  
+         r   j   
+j      jj  j  jj 
+    j     d  jj j
+j  jj j j  r     
+j  rj  j    j j  
+j  pdjjjj    j   
+----------------------
+
+   pj  pp j jj rj
+j jd AA          
+jjj        j  j  
+    j   jR    j  
+             jr  
+j      jj dj  jj 
+    j    jj  jj j
+j  jj j j r      
+j rdj  j    j j  
+j    jjjj    j   
+----------------------
+
+    d pp  j jj  j
+j jp AA       r  
+jjj        j  j  
+    j   jr    j  
+          r  j r 
+j      jj  j  jj 
+    j    jdr jj j
+j  jd j j        
+j r j  j    j j  
+j    jjjj    j   
+----------------------
+
+    j     j jj  j
+j jd AQp     r   
+jjp        j  j  
+    j   j     j  
+         rr  j r 
+j      jjj    jj 
+    j    j r jj j
+jr jj j j        
+j   d  j    j j  
+j    jjjj    j   
+----------------------
+
+   dj  pp j jj  j
+j jj AA    j     
+jjjp       jrrj  
+    j   j r      
+      j      j   
+j        j    jj 
+    j  jrjd  jj j
+j  jj j j  jr    
+jr  j  j    j j  
+j  d jjjj    j   
+----------------------
+
+    j     j jj  j
+j jjdAAp p jj r  
+jjj p      jr j  
+    j   j        
+      j   r  j   
+j        j    jj 
+jr  j  j j   jj j
+   jj jrjd jr    
+j   j  j    j j  
+j   djjjj    j   
+----------------------
+
+    j p   j jj  j
+j jp AA   pj j   
+jjjd       j jr  
+    j   j     jr 
+      j      j   
+j        j r  jj 
+j   j  jrjj rjj j
+ r jj j j        
+j  dj  jd   j j  
+j    jjjj    j   
+----------------------
+
+   pj     j jj  j
+j jj AQ  p j j   
+jjj        j jr  
+  d j   j     j r
+      j    r j   
+j        jj   jj 
+j r j  j jjr jj j
+   jj j dr       
+j   d  j    j j  
+j    jjjj    j   
+----------------------
+
+    j p  pjjj   j
+j pj AA    jr    
+jjd        j j   
+    j   j     j  
+      j      j r 
+j        jjr  jj 
+j r j  jdj   jj j
+   jj j jr r     
+j   j  j    j j  
+j    djjj    j   
+----------------------
+
+    j     jj j  j
+j jj AQ p  jr    
+jjp        jjj   
+  d j   j     j  
+      j      j r 
+j        jjr  jj 
+j   j  jrdr  jj j
+ r jj j j        
+j   j  j    j j  
+j    jdjj    j   
+----------------------
+
+    jp   jjj j  j
+jpjj AA   r      
+jjd     p  jjj   
+    j   j     j  
+      j      j   
+j        jj   jjr
+j   j jj jdr jj j
+r  jj jr  r      
+j   jd j    j j  
+j    jjjj    j   
+----------------------
+
+  p j    jj  j  j
+j jd QA  p  r    
+jjj        jjj   
+    j   j     j  
+      j      j   
+j        jj jj   
+j   j jj j   rj j
+   jd j   R      
+jr  j  jr   j j  
+j    jjjj    j   
+----------------------
+
+ p  j    jj  j  j
+j jj AA   p      
+jjj p    jr jj   
+    j   j     j  
+      j      j   
+j        jj jj   
+j   j jj jjrj j j
+   jjjj      r   
+j   d r   r j j  
+j r  jjjj    j   
+----------------------
+
+  p j    jj  j  j
+j jjpAA          
+jjj      p rjj   
+    d   j     j  
+      j      j   
+j        jjdjj   
+j   j jj jj   j j
+   djjj     rr   
+jr  j  r    j j  
+j    jjjj  r j   
+----------------------
+
+    jp   jj  j  j
+j pj AA          
+jjj d      rjj   
+    j   j p   j  
+      j   d  j   
+j        jjjjj   
+j   d jj jj   j j
+   jjjj       r  
+jr  j  r   r  j  
+j    jjjj  r j   
+----------------------
+
+    j    jjj j  j
+j jjpAA     r    
+jjjp     p   j   
+    d   jd    j  
+      j      j   
+j        jjjjj   
+j   j jj jj jrj j
+   jdjj r  j     
+j   j      rr j  
+jr   jjjj    j   
+----------------------
+
+    j    jjj j  j
+j jp AA   p      
+jjj        j     
+   pjd  j d rrj  
+      j          
+j     jr jjj j   
+j   jdj  jj j j j
+ r jjjj    jr    
+    j       r j  
+     jjjj    j   
+----------------------
+
+    p    jpj j  j
+j j  AA          
+jjj  d     j     
+    j   j     j  
+  p   j  d  jR   
+j     dr jjj j   
+j   j    jj jrj j
+   jjjj   j      
+  r j      r  j  
+     jjjj    j   
+----------------------
+
+         p j j  j
+j j  QA     j    
+jjj        j r   
+    jd  j        
+      jdd   jr   
+jp    j  jjj jr  
+j   j  jrjj j j j
+  jjjjj   j      
+   rj       r j  
+     jjjj    j   
+----------------------
+
+           j j  j
+j j  AA   p j    
+jjj p      j     
+    j ddj   rr   
+      d     jr   
+j     jj jjj j   
+j p j  jr j j j j
+  jjjjj   j j    
+    j        rj  
+   jrjjjj        
+----------------------
+
+           j j  j
+j j pAA     j    
+jjj    d p j     
+    j d j   r r  
+      d     j r  
+j     jj jjj j   
+j   j  jr j j j j
+  jpjjj   j jr   
+    j         j  
+   jrjjjj        
+----------------------
+
+           j j  j
+j j  AA     j    
+jjj p      jjR   
+    j  dj p      
+     dd     j r  
+j     jj jjj j   
+j  pj  j  j j j j
+  jr jj  rj j    
+             rj  
+   j jjjj        
+----------------------
+
+           j j  j
+j j  AA     j r  
+jjj        jj    
+    jpd dp  jr   
+ r    j     j    
+jj p  jd jjj r   
+jjrjj  j  j j j j
+ j   jj   j j    
+  r      r       
+   j jjjj    jr  
+----------------------
+
+           j j   
+j j  AA     jr r 
+jjj  p     jj    
+r   j   j p j    
+     dj d   j r  
+jj  r jj jjj  r  
+j   p  j  j j j j
+jjr  jj j   jj   
+ r       r    r  
+   j jjjj    j   
+----------------------
+
+          jj j r 
+rjj  AA    rj    
+  j      p j     
+    jdp j   j  r 
+      j     j  r 
+jj  p jjdjjj     
+jr   rjj  j j j j
+j     jrj   jj r 
+jj               
+jr j jjjjr   j   
+----------------------
+
+jr        jjjj  r
+ jj  AA     rj j 
+  j   p   pj  r  
+    j d j   j    
+    jjj  d  j    
+jj p R j jjj    r
+j r    jd j j j j
+jr    j j   jj   
+ j              r
+j  j jjjj r  j   
+----------------------
+
+jr        jjj jr 
+jj   AA  p   jjr 
+ jj        j r   
+    jd pj   j    
+ j  jjj     j    
+jjr   rjdjdj   r 
+j  p r j  j j j j
+ r    j j   jj   
+jj             r 
+j  j jjjj  r j   
+----------------------
+
+          pjj j r
+j    AA      jj  
+rjj d      j r r 
+jj  j j j   j    
+ jr jj Q d  j    
+jj     j jjj   r 
+j    j j dj j   j
+ r p j  j   jj   
+jj    r        r 
+j  j jjjj  r j   
+----------------------
+
+         p jj j r
+j    AA     rjj  
+ jj        j   r 
+j  dj j j   j    
+jjR jj Ad   j    
+jj     jpjjj   r 
+  p  j j  j j   j
+jr  jj  d   jj  r
+jj    r   r      
+j  j jjjj    j   
+----------------------
+
+          pj  j  
+j    AA     rjjr 
+ jj        j    r
+j   j j jdr j    
+  rdjj A    j  r 
+jr     j pjj     
+j    j j  j j   j
+j   jj  j  rjj   
+r      r       r 
+j  j jjjj    j   
+----------------------
+
+           j rj  
+j    AA  p    j  
+ jj        j   jr
+jrd j j j   jj  r
+ p  jj A rd j r  
+j r    jp jj     
+j    j j  j j   j
+jj  jj  j r jj r 
+ r      r        
+j  j jdjj    j   
+----------------------
+
+        p  jr j  
+j j  AA       jr 
+ j r       j     
+j pdj j jr  jj r 
+    jj A p  j    
+j  r   j djj   r 
+jr   j j  jrj   j
+ j  jj  jr  jjr  
+     d           
+jj j jjjj    j   
+----------------------
+
+   j       j  j  
+j j rAA  p jr j  
+ j       j j    r
+jpd j j j r jj   
+   jjj A d  j r  
+j   r jj  p r   r
+j    j    j j   j
+j   jd jr   jj r 
+r                
+jj j jjjj    j   
+----------------------
+
+   j       j  j  
+j j  AA    jr j  
+ j r    pj j   r 
+j pdj j j  rjj   
+    jj A    j  r 
+j r   jj d  r j  
+j    j r  p j  r 
+j   jj j    jj r 
+r     d          
+jj j jjjj    j   
+----------------------
+
+   j       j  j  
+j j  AA    j  j  
+ p       j j r r 
+j r j j jpjrjj   
+jr  jj A   rj  r 
+j     jj      j  
+j    j rdp  j  r 
+jr  jjdj    jj   
+                r
+jj j jjjj    j   
+----------------------
+
+   j       j  j  
+j j  AA    jr j  
+ j d    pj  j   r
+jpr j j j j  j r 
+jr  jj A  jrj r  
+jj    jj p r     
+j r  jr     j    
+j   jj   d  jj   
+                 
+jj j jjjj    j r 
+----------------------
+
+   j      jjrjj  
+j d  AA       j  
+ p       j  j j  
+jr rj j jp  rj rr
+j   jj Ajr  j    
+jj    jj    jr   
+j    d r  p j    
+jr  jj      jj   
+         d    r  
+jj j jjjj    j   
+----------------------
+
+j  d      jj jj  
+jrj jAA   jrjrj  
+  p  r  pj  j    
+j     j j rr j r 
+j   jj Aj j j    
+jj    jjr  rj    
+j   dj           
+jr  jj   p  jj   
+ j               
+jj j jjjj d  j r 
+----------------------
+
+  jj      jj jj  
+r d jAA   j j j  
+jp       jr j r  
+j    rj jQr  j   
+j   jj Aj j j  r 
+jj    jj  j      
+jj   j   r r     
+jr  dj      jj   
+ j      p     r  
+jj j jjjjd   j   
+----------------------
+
+jjjd      jj jj  
+r j jAA   j j j  
+j        jr j  r 
+j p r j pA   j   
+j   jj Ajj  j    
+jj    jjrr      r
+jj   j j  r      
+jr  jj      jj   
+  jd     d    r  
+ r j jjjj    j   
+----------------------
+
+jjjj      jj jj  
+  j dAA   j j j  
+jr     jp   j  r 
+j  p  j rA   j   
+j    j Ajj  j    
+jj r  jjrr      r
+jj   j j  r      
+j   jj   pd jj   
+jrj              
+jr d jjjj    j r 
+----------------------
+
+jjjjd     jj jj  
+  j jAA  pj j j  
+j   p  j    j    
+j r   jr A   jr  
+j    jrAjj  j   r
+jj r  j   r      
+jj   j j j       
+jjr jj     rjj   
+ r  d     p     r
+j  j jjjj    j   
+----------------------
+
+jjjj    p jj jj  
+  j dAA   j j j  
+j      j    j    
+j r  pj  A   j  r
+j    j Rj   jr   
+jj  rj   r       
+jj r jj  jrd     
+jj  jjr   p jj   
+  r              
+jj d jjjj    j r 
+----------------------
+
+jjjj      jj jj  
+  j jAA p j j j  
+j    d j    j    
+j     j  A  rj   
+jr  pj Aj r j   r
+jjj  j  rr  d    
+jj r j r j       
+jjr jj      jj   
+ r d      p      
+jj j jjjj    jr  
+----------------------
+
+jjjj     pjj jj  
+j j jAA   j j j  
+rj  d  j    j    
+     pj  A   j  r
+     jjR   rj    
+jrj  j    rd     
+j j rjj  jr      
+j  rjj r p  jj   
+  d              
+jj j jjjj    j r 
+----------------------
+
+jjjj      jj jj  
+ jj dAA  pj j j  
+ rj    j    j    
+j   p j  Ar  j   
+ r j jjR  drj  r 
+j j rj   r       
+j j  jj  p       
+j  rjj      jj   
+      r          
+jj d jjjj    j r 
+----------------------
+
+jjjj      jj jj  
+ jj jAA   j j j  
+j    djj  p j    
+jr    jr Ar  j   
+ r jrp A   rj  r 
+j j  j   Q       
+j jr jj          
+j   jj      jj   
+  d   r         r
+jj j jjjj    j   
+----------------------
+
+jjjj      jj jj  
+ jj jAA   j j j  
+jrr   jj    j    
+      j  Q   j   
+   jrjrA dr j    
+j j  jp pA    r  
+j j  jj          
+j  rjj      jj r 
+ d  j            
+jj j rjjj    j   
+----------------------
+
+jjjj      jj jj  
+ jj jAA   j j j  
+j     jd    j    
+ rr   j  R   j   
+   j j A p  j    
+j jjR  p Ad      
+j jjrjj  p    r  
+j    j      jjr  
+   jr            
+jd j  jjj    j   
+----------------------
+
+jjjj      jj jj  
+ jj jAA   j j j  
+jr    jj    j    
+      j dQ   j   
+ jr rj A rd j    
+j jj R   A       
+j jj jp      j   
+j    j   p  j r  
+d  j         r   
+jj j rjjj    j   
+----------------------
+
+jjjj      jj jj  
+ jj jAA   j j j  
+jrj   jj    j    
+   rj jd Rp  j   
+ j   rrA    j    
+j jjjr  rA d     
+j jj jj  p   jr  
+j    j      j    
+   j  r          
+jd j  jjj    jr  
+----------------------
+
+jrjj      jj jj  
+  j jAA   j j j  
+j j   dj    j    
+    j j  R   j   
+ j jrrRA p  d    
+j jjj pr A       
+j jj jj    jr    
+j    j    p j    
+ d j             
+jj j r jj    jr  
+----------------------
+
+j jj      jj jj  
+r j jAA   j j j  
+j j   jj    j    
+    jj R R  dj   
+ j jrr A    j    
+j jjj  rpA       
+j jj jj  p jr    
+j    j      j    
+  dj          r  
+jj j r jj    j   
+----------------------
+
+jrjj  d   jj jj  
+ j  jAAr  j j j  
+j j   j     j    
+    jj r R   j   
+ j j rpR   dj    
+j jjjr   A   r   
+j jj jjp  pj     
+j    j      j r  
+   d  r          
+jj j   jj    j   
+----------------------
+
+r jj   j  jj jj  
+j   jAArr j j j  
+j j         j    
+    jjj  R   j   
+ j j  rA    d r  
+j jjj rQ Ap      
+j jjjj     j     
+j      r    j    
+  dj          r  
+jj j   jj    j   
+----------------------
+
+  jj  dj  jj jj  
+jr  jAAr  j j j  
+j j     r   j    
+    jjj  R   j   
+ j jj QAp   j  r 
+j jjjr A Q d     
+j jjjj j   j     
+j       r   j    
+   j         r   
+jj d   jj    j   
+----------------------
+
+jrjj   j  jj jj  
+    jAAd  j j j  
+j j     rr  j    
+    jjj  R   j   
+ j jjrAA    j r  
+j jjj  Q A  d    
+j jjjj jp  j     
+j           j    
+   d    r     r  
+jj j   jj        
+----------------------
+
+j jj   j  jj jj  
+  r jAA d j j j  
+j j     r   j    
+   r jj rR   j   
+ j jj AAp   jr   
+j jjj pA A       
+j jjjj p   d     
+j     j     j    
+   j   r      r  
+jj d             
+----------------------
+
+j j    j  jj jj  
+   r AAd  j j j  
+j jj   r    j    
+   r jj  R   j   
+ j jj AR    jr   
+j jjj  A A       
+j jjjp    dj     
+j     j p   j  r 
+   jd            
+jj j    r        
+----------------------
+
+j j    j  jj jj  
+  jrjAR   j j j  
+j j r       j    
+     jj  R   j   
+ j jj AR    j    
+j jjp  ApA   rj  
+j jjj      j   r 
+j    dj  d  j    
+   j     p       
+jj j    r        
+----------------------
+
+j jj   j  jj jj  
+ jjrjRA   j j j  
+j   r jd    j    
+     j r R   j   
+ j jj AA    j r  
+j jj   A A    jr 
+j jjpd  p dj     
+j     j     j    
+   j   rp        
+jj j             
+----------------------
+
+j jjr  j  jj jj  
+ jj jAA   j j j  
+j  j    d   j    
+    rjjr R   j   
+ j jj RA    j  rr
+j jjdp A Ad   j  
+j jj  jp   j     
+j     jr    j    
+   j   p         
+jj j             
+----------------------
+
+j jj r j  jj jj  
+ jj jAA d j j j  
+j  j    r   j    
+   j jj  R   j  r
+ j jprAA   dj  r 
+j jj r ApA    j  
+j jdjj     j     
+j    rj     j    
+   j  p          
+jj j             
+----------------------
+
+j jjr  jd jj jj  
+ jj jAA   j j j  
+j  j    r   j    
+  jj jj  Rd  j   
+ j j rAA    j  R 
+j jp  jA A    j  
+j d jjr p  j     
+j  jrpj     j    
+   j             
+jj j             
+----------------------
+
+j jjr  j  jj jj  
+ jj jAA  dj j j  
+j  j     r  j    
+  jj jj  R   j   
+ j j  RA  d j  r 
+j p  rjA A  j    
+j j p      j r   
+jd j  j     j    
+  r              
+jj j             
+----------------------
+
+j jjr  j  dj jj  
+ jjj AA   j j j  
+j  j        j    
+  jj jj  R   j   
+ j j  RA d  j r  
+j  p rjA A  j r  
+jpj   p    j     
+jj j  j     j    
+d  j             
+jjj r            
+----------------------
+
+j jj   j djj jj  
+ jjj RA   j j j  
+j  j        j    
+  jjjjj  Rr  j   
+ j j rAR    j    
+p   p jA Ad j r  
+j j        j  r  
+jd j pj     j    
+   j             
+jjj r            
+----------------------
+
+j jj j j  jj jj  
+ jjj AR   d j j  
+j  j   r r  j    
+  jjj    R   j   
+ j jp RA   dj    
+ p   jjA A  jr   
+j d  p     j   r 
+jj j  j     j    
+   j r           
+jjj              
+----------------------
+
+j jj j j  jj jj  
+ jjj RR   j j j  
+j  j      d j    
+  jpj    R   j   
+ j j jAA    jr   
+  d    A A dj    
+jpj j r    j     
+jj j rp     j   r
+   j             
+jjj              
+----------------------
+
+j jj   j  jj jj  
+ jjj AR   j j j  
+j  jr       j    
+  j p    Rd  j   
+ j j jAA    jr   
+ d    rA A  j    
+p j j rp  dj   r 
+jj j jj     j    
+   j             
+jjj              
+----------------------
+
+j jjj  j  jj jj  
+ jjj RA   j j j  
+j  jr       j    
+  j  p   R   j   
+ j j jAA drr     
+      rA Ad      
+ pd j  r   j   r 
+jj j jj p   j    
+   j             
+jjj              
+----------------------
+finished after 100 turns
+Summary of the chase:
+The robbers win the chase because maximum turns have been reached
+Police ID: 1
+	Confiscated jewels amount: $0
+	Final number of robbers caught: 2
+Police ID: 2
+	Confiscated jewels amount: $0
+	Final number of robbers caught: 0
+Police ID: 3
+	Confiscated jewels amount: $0
+	Final number of robbers caught: 6
+Greedy Robber ID: 1
+	Fnal number of jewels: 0
+	Total jewel worth: $0
+Greedy Robber ID: 2
+	Fnal number of jewels: 0
+	Total jewel worth: $0
+Ordinary Robber ID: 3
+	Fnal number of jewels: 2
+	Total jewel worth: $929
+Ordinary Robber ID: 4
+	Fnal number of jewels: 0
+	Total jewel worth: $0
+Ordinary Robber ID: 5
+	Fnal number of jewels: 0
+	Total jewel worth: $0
+Ordinary Robber ID: 6
+	Fnal number of jewels: 0
+	Total jewel worth: $0
+Ordinary Robber ID: 7
+	Fnal number of jewels: 0
+	Total jewel worth: $0
+Ordinary Robber ID: 8
+	Fnal number of jewels: 0
+	Total jewel worth: $0
+Greedy Robber ID: 9
+	Fnal number of jewels: 0
+	Total jewel worth: $0
+Greedy Robber ID: 10
+	Fnal number of jewels: 0
+	Total jewel worth: $0
+Ordinary Robber ID: 11
+	Fnal number of jewels: 0
+	Total jewel worth: $0
+Ordinary Robber ID: 12
+	Fnal number of jewels: 0
+	Total jewel worth: $0
+Ordinary Robber ID: 13
+	Fnal number of jewels: 0
+	Total jewel worth: $0
+Greedy Robber ID: 14
+	Fnal number of jewels: 0
+	Total jewel worth: $0
+Greedy Robber ID: 15
+	Fnal number of jewels: 0
+	Total jewel worth: $0
